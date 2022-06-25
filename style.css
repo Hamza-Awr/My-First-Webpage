@@ -12,6 +12,12 @@ h2 {
     text-decoration: underline;
 }
 
+h1 {
+    background-color:hsl(116, 97%, 49%);
+    text-align: center;
+    text-decoration: underline;
+}
+
 img {
     border-radius: 10%;
     outline-style: groove;
